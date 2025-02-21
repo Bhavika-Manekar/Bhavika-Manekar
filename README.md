@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Bhavika-Manekar/Bhavika-Manekar/blob/main/3c00f6105775659.5f84899401909.gif)
 <h1 align="center">Hi 👋, I'm Bhavika Manekar</h1>
 <h3 align="center">A passionate DATA-ANALYST from India</h3>
 
